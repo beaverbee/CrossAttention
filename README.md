@@ -1,9 +1,16 @@
 # CrossAttention
-Relation Extraction Based on CrossAttention Neural Network
-Refer to Casrel
-基于Transformer模型的Decoder端提出交叉注意力机制应用到关系抽取中
 
-使用：采用BERT模型,下载对应的预训练模型，并修改读取文件地址。Run 开箱即用
-BERT+DGCNN+CA
-框架为CasRel
-可支持中文实体关系抽取
+## Relation Extraction Based on CrossAttention Neural Network
+
+This repository contain the NYT and WebNLG datasets for the paper "Relation Extraction Based on CrossAttention Neural Network"<br>
+
+### Overview
+
+NYT dataset is proposed by Sebastian Riedel, Limin Yao, and Andrew McCallum for the paper "Modeling relations and their mentions without labeled text"
+WebNLG dataset is proposed by Claire Gardent, Anastasia Shimorina, Shashi Narayan, and Laura Perez-Beltrachini for the paper "Creating training corpora for nlg micro-planners"
+the original NYT and WebNLG datasets are available at https://github.com/weizhepei/CasRel which are collected and uploaded by Zhepei Wei, Jianlin Su, Yue Wang, Yuan Tian and Yi Chang<br/>
+Thanks the above authors' contribution. We upload the two public dataset in the form of JSON format.<br>
+
+### Usage
+
+We will upload the source code after code review
